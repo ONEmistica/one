@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="31.9005mm" height="31.9005mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3190 3190"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#121212}
+    .fil0 {fill:white}
+    .fil2 {fill:white;fill-rule:nonzero}
+   ]]>
+  </style>
+   <mask id="id0">
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="1595.03" y1="3153.21" x2="1595.03" y2="36.8399">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+    <rect style="fill:url(#id1)" x="33" y="33" width="3124" height="3124"/>
+   </mask>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M3190 1596c0,-882 -714,-1596 -1594,-1596 -882,0 -1596,714 -1596,1596 0,880 714,1594 1596,1594 880,0 1594,-714 1594,-1594zm-37 0c0,-861 -698,-1559 -1557,-1559 -861,0 -1559,698 -1559,1559 0,859 698,1557 1559,1557 859,0 1557,-698 1557,-1557z"/>
+  <path class="fil1" style="mask:url(#id0)" d="M3153 1596c0,-861 -698,-1559 -1557,-1559 -861,0 -1559,698 -1559,1559 0,859 698,1557 1559,1557 859,0 1557,-698 1557,-1557z"/>
+ </g>
+ <g id="Layer_x0020_1_0">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <polygon class="fil2" points="1023,1399 1144,1399 1144,1444 1099,1444 978,1776 918,1776 797,1444 767,1444 767,1399 888,1399 888,1444 858,1444 948,1731 1053,1444 1023,1444 "/>
+  <polygon id="_1" class="fil2" points="1219,1399 1340,1399 1340,1444 1309,1444 1309,1731 1340,1731 1340,1776 1219,1776 1219,1731 1249,1731 1249,1444 1219,1444 "/>
+  <polygon id="_2" class="fil2" points="1460,1399 1731,1399 1731,1505 1670,1505 1670,1444 1550,1444 1550,1565 1655,1565 1655,1610 1550,1610 1550,1731 1670,1731 1670,1670 1731,1670 1731,1776 1460,1776 1460,1731 1490,1731 1490,1444 1460,1444 "/>
+  <polygon id="_3" class="fil2" points="2287,1399 2408,1399 2408,1444 2378,1444 2272,1776 2197,1776 2107,1460 2017,1776 1941,1776 1835,1444 1791,1444 1791,1399 1911,1399 1911,1444 1881,1444 1972,1731 2061,1399 2137,1399 2242,1731 2332,1444 2287,1444 "/>
+ </g>
+</svg>
